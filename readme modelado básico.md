@@ -46,7 +46,6 @@ cursos en los que ha participado(id, nombre, descripcion)
 
 ### *RELACIONES*
 
-
 # CURSOS
 ___
 ### *CAMPOS*
